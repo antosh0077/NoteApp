@@ -1,0 +1,5 @@
+F:\For C#\Projects\MerSoft\NoteApp\NoteApp.Library\bin\Debug\NoteApp.Library.dll
+F:\For C#\Projects\MerSoft\NoteApp\NoteApp.Library\bin\Debug\NoteApp.Library.pdb
+F:\For C#\Projects\MerSoft\NoteApp\NoteApp.Library\obj\Debug\NoteApp.Library.csproj.CoreCompileInputs.cache
+F:\For C#\Projects\MerSoft\NoteApp\NoteApp.Library\obj\Debug\NoteApp.Library.dll
+F:\For C#\Projects\MerSoft\NoteApp\NoteApp.Library\obj\Debug\NoteApp.Library.pdb

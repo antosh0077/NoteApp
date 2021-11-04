@@ -1,0 +1,15 @@
+F:\For C#\Projects\MerSoft\NoteApp\NoteApp\bin\Debug\NoteApp.exe.config
+F:\For C#\Projects\MerSoft\NoteApp\NoteApp\bin\Debug\NoteApp.exe
+F:\For C#\Projects\MerSoft\NoteApp\NoteApp\bin\Debug\NoteApp.pdb
+F:\For C#\Projects\MerSoft\NoteApp\NoteApp\bin\Debug\NoteApp.Library.dll
+F:\For C#\Projects\MerSoft\NoteApp\NoteApp\bin\Debug\NoteApp.Library.pdb
+F:\For C#\Projects\MerSoft\NoteApp\NoteApp\obj\Debug\NoteApp.csproj.AssemblyReference.cache
+F:\For C#\Projects\MerSoft\NoteApp\NoteApp\obj\Debug\NoteApp.Main.resources
+F:\For C#\Projects\MerSoft\NoteApp\NoteApp\obj\Debug\NoteApp.NoteForm.resources
+F:\For C#\Projects\MerSoft\NoteApp\NoteApp\obj\Debug\NoteApp.NoteDetails.resources
+F:\For C#\Projects\MerSoft\NoteApp\NoteApp\obj\Debug\NoteApp.Properties.Resources.resources
+F:\For C#\Projects\MerSoft\NoteApp\NoteApp\obj\Debug\NoteApp.csproj.GenerateResource.cache
+F:\For C#\Projects\MerSoft\NoteApp\NoteApp\obj\Debug\NoteApp.csproj.CoreCompileInputs.cache
+F:\For C#\Projects\MerSoft\NoteApp\NoteApp\obj\Debug\NoteApp.csproj.CopyComplete
+F:\For C#\Projects\MerSoft\NoteApp\NoteApp\obj\Debug\NoteApp.exe
+F:\For C#\Projects\MerSoft\NoteApp\NoteApp\obj\Debug\NoteApp.pdb
